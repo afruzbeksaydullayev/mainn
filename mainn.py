@@ -29,7 +29,7 @@ else:
     pass
 
 
-  CREATE TABLE
+  #CREATE TABLE
 create_table_product7 = """create table if not exists Product7
 (
     id serial PRIMARY KEY,
